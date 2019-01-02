@@ -1,0 +1,7 @@
+{
+  "name": "pphoto-gallery",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
